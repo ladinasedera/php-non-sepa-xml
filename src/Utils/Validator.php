@@ -15,6 +15,6 @@ class Validator
      */
     public static function validatePain($painFormat)
     {
-    	return $painFormat == 'pain.001.001.03';
+    	return $painFormat == 'pain.001.001.03.xct';
     }
 }
